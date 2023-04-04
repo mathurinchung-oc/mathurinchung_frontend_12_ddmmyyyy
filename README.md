@@ -5,6 +5,7 @@ Vous travaillez pour le département technologique d'une grande société financ
 Cette société utilise une application web interne, appelée HRnet, qui gère les dossiers des employés. L'application est ancienne et utilise jQuery côté front end, ce qui entraîne des bugs considérables et une augmentation des plaintes en interne. Votre équipe de développement s'efforce depuis un certain temps déjà de mettre à niveau l'application. 
 
 ![Logo de Wealth Health](./docs/wealth_health_logo.jpg)
+> Logo de Wealth Health
 
 Un matin, vous vous rendez au travail et remarquez les messages suivants de Jade, une collègue développeuse de l'équipe :
 
@@ -103,7 +104,7 @@ Comme promis, un peu plus tard dans la journée, Jade vous envoie le mail suivan
 >
 > J'ai hâte de voir ce que tu vas faire !
 >
-> Jade
+> **Jade**
 >
 
 Ça y est, vous avez toutes les informations dont vous avez besoin. Maintenant, le plus dur sera de choisir quel plugin jQuery convertir !
