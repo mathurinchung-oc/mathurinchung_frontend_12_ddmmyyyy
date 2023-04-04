@@ -1,0 +1,3 @@
+[submodule "hrnet"]
+	path = hrnet
+	url = https://github.com/mathurinchung/hrnet.git
